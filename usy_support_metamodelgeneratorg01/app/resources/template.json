@@ -139,9 +139,8 @@
     "uu-businessterritory-maing01/uuAwsc/synchronizeHomeFolder": "11000000-00000000-00000000-00000000",
     "uu-businessterritory-maing01/uuAwsc/synchronizeResponsibleRole": "11000000-00000000-00000000-00000000",
 
-    "uu-businessterritory-maing01/uuAwsc/addExplicitPermission": "11000000-00000000-00000000-00000000",
-    "uu-businessterritory-maing01/uuAwsc/removeExplicitPermission": "11000000-00000000-00000000-00000000",
-    "uu-businessterritory-maing01/uuAwsc/getExplicitPermissions": "11000000-00000000-00000000-00000000",
+    "uu-businessterritory-maing01/uuAwsc/setExplicitPermissions": "11000000-00000000-00000000-00000000",
+    "uu-businessterritory-maing01/uuAwsc/listExplicitPermissions": "11000000-00000000-00000000-00000000",
     "uu-businessterritory-maing01/uuAwsc/checkIntegrityRules": "11000000-00000000-00000000-00000000"
   },
 
