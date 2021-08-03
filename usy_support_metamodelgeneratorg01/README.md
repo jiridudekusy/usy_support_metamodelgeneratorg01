@@ -38,6 +38,9 @@ Read help : `metamodel-generatorg01 --help`
 
 # Changelog
 
+## 0.2.4
+- Bugfix: Outdated uuAwsc BT cmds in template fix (#2)
+
 ## 0.2.3
 - add support for uuAppServer 5.x
 
