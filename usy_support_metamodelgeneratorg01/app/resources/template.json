@@ -141,7 +141,13 @@
 
     "uu-businessterritory-maing01/uuAwsc/setExplicitPermissions": "11000000-00000000-00000000-00000000",
     "uu-businessterritory-maing01/uuAwsc/listExplicitPermissions": "11000000-00000000-00000000-00000000",
-    "uu-businessterritory-maing01/uuAwsc/checkIntegrityRules": "11000000-00000000-00000000-00000000"
+    "uu-businessterritory-maing01/uuAwsc/checkIntegrityRules": "11000000-00000000-00000000-00000000",
+
+    "uu-businessterritory-maing01/uuAwsc/visualIdentification/set": "11000000-00000000-00000000-00000000",
+    "uu-businessterritory-maing01/uuAwsc/visualIdentification/get": "11000000-00000000-00000000-00000000",
+    "uu-businessterritory-maing01/uuAwsc/visualIdentification/load": "11000000-00000000-00000000-00000000",
+    "uu-businessterritory-maing01/uuAwsc/visualIdentification/unset": "11000000-00000000-00000000-00000000",
+    "uu-businessterritory-maing01/uuAwsc/loadData": "11000000-00000000-00000000-00000000"
   },
 
   "routeMap": {
