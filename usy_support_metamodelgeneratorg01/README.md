@@ -2,16 +2,13 @@ This tool generates and updates metamodel for uuBt. It has been tested only with
 
 # Features
 - generate metamodel schemaVersion 1.0.0 from profiles.json
+- generate metamodel schemaVersion 2.0.0 from profiles.json
 - update existing metamodel schemaVersion 1.0.0
 
 # How to install and update ?
 
- - Linux/Mac
-   1. `npm install --registry "https://repo.plus4u.net/repository/npm/" -g $(npm v --registry http://registry.npmjs.com usy_support_metamodelgeneratorg01  dist.tarball)`
- - Windows
-   1. `npm v --registry http://registry.npmjs.com usy_support_metamodelgeneratorg01  dist.tarball`
-   2. `npm install --registry "https://repo.plus4u.net/repository/npm/" -g <urin from previous command>`
-
+`npm install --registry "https://repo.plus4u.net/repository/npm/" -g usy_support_metamodelgeneratorg01`
+ 
 # How to use ?
 
 Read help : `metamodel-generatorg01 --help`
@@ -37,6 +34,10 @@ Read help : `metamodel-generatorg01 --help`
 
 
 # Changelog
+
+## 0.3.0
+- Add support for metamodel schema 2.0 
+- uuBt commands for visual identification added to the template (#3)
 
 ## 0.2.4
 - Bugfix: Outdated uuAwsc BT cmds in template fix (#2)
